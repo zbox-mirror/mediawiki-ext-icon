@@ -6,14 +6,14 @@
  * @file
  * @ingroup Extensions
  * @licence GNU GPL
- * @author Kitsune Solar
+ * @author z17 Dev
  */
 $magicWords = [];
 
 /**
  * English.
  *
- * @author Kitsune Solar
+ * @author z17 Dev
  */
 $magicWords['en'] = [
   'icon' => [0, 'icon'],
@@ -22,7 +22,7 @@ $magicWords['en'] = [
 /**
  * Russian.
  *
- * @author Kitsune Solar
+ * @author z17 Dev
  */
 $magicWords['ru'] = [
   'icon' => [0, 'icon'],
