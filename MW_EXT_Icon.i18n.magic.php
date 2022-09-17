@@ -6,14 +6,14 @@
  * @file
  * @ingroup Extensions
  * @licence GNU GPL
- * @author z17 Dev
+ * @author z17 Development
  */
 $magicWords = [];
 
 /**
  * English.
  *
- * @author z17 Dev
+ * @author z17 Development
  */
 $magicWords['en'] = [
   'icon' => [0, 'icon'],
@@ -22,7 +22,7 @@ $magicWords['en'] = [
 /**
  * Russian.
  *
- * @author z17 Dev
+ * @author z17 Development
  */
 $magicWords['ru'] = [
   'icon' => [0, 'icon'],
